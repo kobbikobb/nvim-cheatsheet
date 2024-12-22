@@ -60,3 +60,8 @@
 - J = join
 - gJ = join excluding break
 
+### Find Replace
+- * = find all current words
+- cgn = replace with new word and press esc
+- n / N = next or previous word
+- . = replay 
